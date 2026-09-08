@@ -1,0 +1,6 @@
+{
+  "name": "MechMate - 기계 조립 관리자",
+  "description": "기계 및 로봇 조립 순서, BOM 부품 관리, 실시간 도면 미리보기 및 공정 호환성 검사 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
